@@ -23,3 +23,4 @@ while time <= 0:
 total = principle * pow((1+ rate/100), time)
 print ("---------------------------------------------------------")
 print (f"The total amount after {time} years is ${total:.2f}")
+print ("---------------------------------------------------------")
